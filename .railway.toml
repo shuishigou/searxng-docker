@@ -1,0 +1,5 @@
+[build]
+command = "docker-compose build"
+
+[deploy]
+startCommand = "docker-compose up"
